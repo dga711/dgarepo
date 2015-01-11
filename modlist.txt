@@ -1,0 +1,19 @@
+{
+    "msg" : "success",
+    "data" : [{
+            "id" : "dgaShowCardPrice",
+            "name" : "Show Card Price",
+            "description" : "shows pricing in flavour,store,bm",
+            "version" : 1,
+            "versionCode" : "1.0",
+            "downloads" : 42
+        }, {
+            "id" : "dgaNoobStats",
+            "name" : "Noob Stats",
+            "description" : "shows opponent info on game start in chat",
+            "version" : 1,
+            "versionCode" : "1.0",
+            "downloads" : 42
+        }
+    ]
+}
