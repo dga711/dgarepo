@@ -4,14 +4,14 @@
             "id" : "dgaShowCardPrice",
             "name" : "ShowCardPrice",
             "description" : "shows pricing in flavour,store,bm",
-            "version" : 2,
+            "version" : 3,
             "versionCode" : "1.0",
             "downloads" : 42
         }, {
             "id" : "dgaNoobStats",
             "name" : "NoobStats",
             "description" : "shows opponent info on game start in chat",
-            "version" : 2,
+            "version" : 3,
             "versionCode" : "1.0",
             "downloads" : 42
         }
