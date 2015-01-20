@@ -4,7 +4,7 @@
             "id" : "dgaShowCardPrice",
             "name" : "ShowCardPrice",
             "description" : "shows pricing in flavour,store,bm",
-            "version" : 5,
+            "version" : 6,
             "versionCode" : "1.0",
             "downloads" : 42
         }, {
